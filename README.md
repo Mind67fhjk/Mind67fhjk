@@ -1,11 +1,12 @@
 Hi there, I'm Elias! 👋
+
   ____ _ _   _ Lub      ____              _ __ _       
  / ___(_) |_| |__  _  _| __ )_   _  __ _/ / /(_)  _  _ 
 | |  _| | __| '_ \| | | |  _ \ | | |/ _` | | | | | | |
 | |_| | | |_| | | | |_| | |_) | |_| | (_| | | | |_| |
  \____|_|\__|_| |_|\__,_|____/ \__,_|\__,_|_|_|\__,_|
+ 
 
-Copy
 Ethical Hacker | Cybersecurity Enthusiast | Tool Builder
 
 Welcome to my profile! I am passionate about finding security flaws, building helpful security tools, and making the web safer for everyone.
