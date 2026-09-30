@@ -35,7 +35,6 @@ Cybersecurity researcher and ethical hacking enthusiast focused on practical sec
   <img src="https://streak-stats.demolab.com?user=Mind67fhjk&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Recent GitHub contribution streak timeline for Mind67fhjk" />
 </p>
 
-> External stat widgets may be cached or temporarily unavailable depending on their providers.
 
 ## Collaboration
 
